@@ -1,2 +1,2 @@
 # Translation-Manager
-Translation manager
+Laravel translation manager for tikweb
