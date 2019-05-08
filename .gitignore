@@ -17,4 +17,8 @@ Homestead.yaml
 Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+.idea
